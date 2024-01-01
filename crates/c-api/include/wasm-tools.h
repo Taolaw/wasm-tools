@@ -8,6 +8,7 @@
 #define WASM_TOOLS_H
 
 #include <stdint.h>
+#include <stddef.h>
 
 #ifdef __cplusplus
 extern "C" {

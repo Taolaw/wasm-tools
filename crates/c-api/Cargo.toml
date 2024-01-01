@@ -12,7 +12,7 @@ publish = false
 
 [lib]
 name = "wasmtools"
-crate-type = ["cdylib"]
+crate-type = ["cdylib", "staticlib"]
 doc = false
 test = false
 doctest = false
